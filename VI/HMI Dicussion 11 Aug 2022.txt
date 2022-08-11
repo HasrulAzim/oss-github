@@ -1,0 +1,35 @@
+Equipments List
+1) Type ID (4 char)
+2) Type Description (16 char)
+3) Equipment ID (16 char)
+4) Equipment Description (32 char)
+5) Serial No. (32 char)
+6) Next Cal. Date (DD-MM-YYYY)
+7) LP (Boolean Checkbox)
+
+Execute Page
+Sequence Details (Edited from Sequence Data Control)
+Top section
+1.No
+2.Test Grp.
+3.Test Seq.
+4.Test Requirement
+5.Variance
+6.Test Procedure (X-xxxx)
+7.Sect.
+8. Test Pressure
+9. Cycle
+10.Hold time
+11.BD.
+12.Actu. Pressure (Hidden if not BD)
+13.Max BD Pressure (90% of actuator pressure) (Hidden if not BD)
+
+Info Section
+1.Test System
+2.Test Media
+3.MSHP
+4.PHPD
+5.Chart scale
+
+**Dropdown of No and Test Requirement concat. 
+**Disabled dropdown if test started
